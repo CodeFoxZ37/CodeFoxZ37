@@ -3,23 +3,19 @@
 </div>
 
 <p align="center">
-  <img src="Aram_Musset_2.png" alt="RamCode Logo"/>
+  <img src="Aram_Musset_3.png" alt="RamCode Logo"/>
 </p>
 
-## Sobre Mi
-<p>Soy <strong>Aram Musset</strong>, desarrollador Full-Stack y estudiante de desarrollo de software. Me especializo en construir aplicaciones robustas y escalables, guiado por principios de código limpio, buenas prácticas y un compromiso constante con la calidad.</p>
-<p>
-  📍 Santo Domingo Este, República Dominicana.
-</p>
 
-## Tech Stack
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,react,tailwindcss,java,mysql,postgresql,ts,js,astro,fastapi,django,html,css" />
-  </a>
-</p>
+<div align="center">
+  <h2>Tech Stack</h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,ts,js,rust,react,nextjs,tailwindcss,java,mysql,postgresql,astro,fastapi,django,html,css&perline=8" />
+    </a>
+  </p>
+</div>
 
-<br/>
 <p align="center">
   <a href="https://stats.hyo.dev/stats/ramcodez3">
     <img src="https://stats.hyo.dev/api/github-stats-advanced?login=ramcodez3" width="500" />
@@ -27,5 +23,5 @@
 </p>
 
 <div align='end'>
-  Edicion: 21/04/2026
+  Edicion: 02/08/2026
 </div>
